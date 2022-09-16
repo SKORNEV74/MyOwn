@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+}
+section {
+    background-color: #32a2d7;
+    width: 100%;
+    height: 100vh;
+}
+section:nth-child(even) {
+    background-color: #561139;
+}
